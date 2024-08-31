@@ -1,1 +1,1 @@
-This is a basic Golang program which lets you play cards games anf allows you to customise decks, add extra decks, customise hands and shuffle decks.
+This basic Golang program lets you play card games and allows you to customize decks, add extra decks, customize hands, and shuffle decks.
